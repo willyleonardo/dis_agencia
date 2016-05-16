@@ -1,0 +1,29 @@
+body{font-family: 'Fjalla One', sans-serif}
+.civa{width:960px;height:450px;background:#f1f1ef;border-radius: 10px;margin:auto; }
+    .leyenda{width: 100%;height: 50px;padding: 10px 30px;box-sizing: border-box;}
+    .img{position: relative;width: 180px;height: 30px;float: left;margin-right: 20px; }
+        h4{position: absolute;margin:0;top: 12px;left: 33px;text-transform: uppercase;color: #555;font-size: 13px}
+    .bus{width: 100%;height: 250px;position: relative;top:5px;}
+        .cabeza{position: absolute;left: 20%}
+        .cuerpo{position: absolute;background: #fff;height: 196px;width: 51%;right: 22.6%;top:12px;border-radius: 5px;border-top-left-radius: 0;border-bottom-left-radius: 0;border-top: 1px solid #cdcdcd;border-bottom: 1px solid #cdcdcd;border-right: 1px solid #cdcdcd}
+            .cuerpo>p{padding: 0;margin-top: 0;margin-bottom: 0;text-align: center;color: red}
+            td{position: relative;}
+            img{cursor: pointer;}
+            .tv{margin-left: 20px}
+            h5{position: absolute;color: #666;font-size: 11px;top:-9px;left: 7px;}
+    .sal{width: 100%;height: 130px;position: absolute;top: 250px;}
+        .salida{width: 170px;height: 90px;margin-top: 0px;padding: 0 50px}
+        .salida>p{color:#000;}
+        .totales{width: 230px;height: 70px;float: right;margin-right: 70px;margin-top: -105px}
+        a{text-decoration: none;background: red;padding: 10px 25px;color: white;border-radius: 5px;float: right;margin-right: 65px;margin-top: -20px}
+.cabeza1{position: absolute;left: 13%}
+    .cuerpo1{position: absolute;box-sizing: border-box;background: #fff;height: 198px;width: 20%;left: 19.2%;top:12px;border-radius: 5px;border-top-left-radius: 0;border-bottom-left-radius: 0;border-top: 1px solid #cdcdcd;border-bottom: 1px solid #cdcdcd;border-right: 1px solid #cdcdcd}
+        .p{padding: 0;margin-top: 0;margin-bottom: 0;text-align: center;color: red}
+            .mm{height: 28px}
+        .cuerpo1>td{position: relative;padding: 9.5px 9.5px;width: 28px;height: 28px}
+            img{cursor: pointer;}
+            .tv{margin-left: 20px}
+            h5{position: absolute;color: #666;font-size: 11px;top:-9px;left: 7px;}
+    .cuerpo2{position: relative;box-sizing: border-box;border: 1px solid #cdcdcd;border-radius: 5px;margin-left: 40%;height: 198px;background: #fff;width: 50%;top: 12px}
+    .cuerpo2>table{padding: 0 0 5px 10px}
+.exclu{width: 300px}
